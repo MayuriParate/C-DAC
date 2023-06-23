@@ -27,3 +27,6 @@ git pull
 How to create our own branch.
 git checkout -b <branchname>
 
+
+$ git checkout main  === switch to main branch
+
