@@ -2,11 +2,17 @@ First Lecture of DevOps
 Git Hub
 
 git clone
+ 
+git branch ( to check branch name)  
+echo "This is second file" >> file2.txt == creating file in 
 
-git branch ( to check branch name)
 git status ( it check whether file is added on repository)
-git add file1.txt
 
-git add filename <-> will add only one file 
+git add filename.txt <-> will add only one file 
 git add . <-> will add all files
 git add-- 
+
+git commit -am "git commands" == it is for comment 
+
+
+setting -> developer settings -> personal access tokens -> tokens(classic) -> generate token -> copy token
