@@ -1,0 +1,12 @@
+First Lecture of DevOps
+Git Hub
+
+git clone
+
+git branch ( to check branch name)
+git status ( it check whether file is added on repository)
+git add file1.txt
+
+git add filename <-> will add only one file 
+git add . <-> will add all files
+git add-- 
