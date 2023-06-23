@@ -13,6 +13,17 @@ git add . <-> will add all files
 git add-- 
 
 git commit -am "git commands" == it is for comment 
-
-
 setting -> developer settings -> personal access tokens -> tokens(classic) -> generate token -> copy token
+
+git push origin main
+ and login with token
+
+
+
+
+create file on github
+git pull
+
+How to create our own branch.
+git checkout -b <branchname>
+
