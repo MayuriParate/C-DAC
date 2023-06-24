@@ -27,6 +27,7 @@ git pull
 How to create our own branch.
 git checkout -b <branchname>
 
-
-$ git checkout main  === switch to main branch
-
+pull request
+new pull request 
+select branch -> 1 main 2nd Mayuri
+MERGE REQUEST
